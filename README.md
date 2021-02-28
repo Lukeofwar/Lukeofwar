@@ -13,7 +13,7 @@ este é meu perfil no discord : https://discord.com/channels/813061752236670986/
 
 
 
-curiosidades: gosto de games, música, filmes e animes.
+## curiosidades: gosto de games, música, filmes e animes.
 
 
 ![tudo](https://github.com/Lukeofwar/Lukeofwar/blob/main/e426702edf874b181aced1e2fa5c6cde.gif)
