@@ -3,6 +3,7 @@
 sou uma pessoa que gosta de programar e quer se tornar um programador front-end 
 mais no momento faço um pouco de front-end e back-end.
 
+estudante de programação que não rejeita um bom desafio. Meu sonho viver radicalmente onde quer que eu vá.
 Sempre tentando me superar e achar novos desafios e não importa o desafio tento superá-lo
 
 
