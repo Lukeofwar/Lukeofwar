@@ -12,6 +12,8 @@ este é meu perfil na rocketseat https://app.rocketseat.com.br/me/matheus-lucas-
 
 este é meu perfil no discord : https://discord.com/channels/813061752236670986/813061752236670990
 
+https://discord.gg/uyR3duqAxh
+
 
 
 
