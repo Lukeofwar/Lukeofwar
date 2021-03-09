@@ -17,10 +17,6 @@ este é meu perfil no discord : https://discord.gg/uyR3duqAxh
 
 
 
- (https://github-readme-stats.vercel.app/api ? Username = anuraghazra & show_icons = true )
-
-
-
 
 ![tudo](https://github.com/Lukeofwar/Lukeofwar/blob/main/e426702edf874b181aced1e2fa5c6cde.gif)
 
