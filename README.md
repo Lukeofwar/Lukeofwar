@@ -10,9 +10,12 @@ Sempre tentando me superar e achar novos desafios e não importa o desafio tento
 
 este é meu perfil na rocketseat https://app.rocketseat.com.br/me/matheus-lucas-nunes-00546
 
-este é meu perfil no discord : https://discord.com/channels/813061752236670986/813061752236670990
 
-https://discord.gg/uyR3duqAxh
+#### clique aqui ↯↯↯↯↯↯
+
+este é meu perfil no discord : https://discord.gg/uyR3duqAxh
+
+
 
 
 
