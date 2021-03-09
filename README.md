@@ -16,7 +16,7 @@ este é meu perfil na rocketseat https://app.rocketseat.com.br/me/matheus-lucas-
 este é meu perfil no discord : https://discord.gg/uyR3duqAxh
 
 
-![inauguração](url)](https://github-readme-stats.vercel.app/api?username=Lukeofwar_icons=true&theme=radical)
+
 
 ### curiosidades: gosto de games, música, filmes e animes.
 
