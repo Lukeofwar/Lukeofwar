@@ -18,9 +18,6 @@ este é meu perfil no discord : https://discord.gg/uyR3duqAxh
 
 
 
-![tudo](https://github.com/Lukeofwar/Lukeofwar/blob/main/e426702edf874b181aced1e2fa5c6cde.gif)
-
-
 ### curiosidades: gosto de games, música, filmes e animes.
 
 
