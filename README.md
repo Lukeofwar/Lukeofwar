@@ -19,7 +19,7 @@ este é meu perfil no discord : https://discord.gg/uyR3duqAxh
 
 
 
- ![Luke GitHub stats](https://github-readme-stats.vercel.app/api?username=Lukeofwar_)
+ ![Luke GitHub stats](https://github-readme-stats.vercel.app/api?username=Lukeofwar)
 
 
 ### curiosidades: gosto de games, música, filmes e animes.
