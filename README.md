@@ -3,7 +3,7 @@
 Sou uma pessoa que gosta de programar e quer se tornar um programador front-end 
 mais no momento faço um pouco de front-end e back-end.
 
-estudante de programação que não rejeita um bom desafio ⚔❤😉.
+Estudante de programação que não rejeita um bom desafio ⚔❤😉.
 Sempre tentando me superar e achar novos desafios e não importa o desafio tento superá-lo.
 
 ### Vamos juntos construir o futuro da programação.
