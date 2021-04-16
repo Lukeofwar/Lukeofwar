@@ -8,7 +8,7 @@ Sempre tentando me superar e achar novos desafios e não importa o desafio tento
 
 ### Vamos juntos construir o futuro da programação.
 
-este é meu perfil na rocketseat https://app.rocketseat.com.br/me/matheus-lucas-nunes-00546
+Este é meu perfil na rocketseat https://app.rocketseat.com.br/me/matheus-lucas-nunes-00546
 
 
 
