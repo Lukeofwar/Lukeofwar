@@ -20,11 +20,11 @@ Este é meu perfil na rocketseat https://app.rocketseat.com.br/me/matheus-lucas-
 
 <br/>
 
-### curiosidades:
+### Curiosidades:
 
 gosto de games🎮🕹/
 
-música 🎶🎧/
+músicas 🎶🎧/
 
 filmes e animes 🎬🎥/
 
