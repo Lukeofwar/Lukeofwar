@@ -17,6 +17,8 @@ músicas 🎶🎧/
 
 filmes e animes 🎬🎥/
 
+
+ #### Vamos juntos construir o futuro da programação.
 Este é meu perfil na rocketseat https://app.rocketseat.com.br/me/matheus-lucas-nunes-00546
 
 <br/><br/>
@@ -28,7 +30,7 @@ Este é meu perfil na rocketseat https://app.rocketseat.com.br/me/matheus-lucas-
  
  <br/>
  
- ### Vamos juntos construir o futuro da programação.
+
 
 
 
