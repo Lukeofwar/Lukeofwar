@@ -16,6 +16,9 @@ gosto de games🎮🕹/
 músicas 🎶🎧/
 
 filmes e animes 🎬🎥/
+
+Este é meu perfil na rocketseat https://app.rocketseat.com.br/me/matheus-lucas-nunes-00546
+
 <br/><br/>
 <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=Lukeofwar&theme=buefy"/> 
  
@@ -27,7 +30,6 @@ filmes e animes 🎬🎥/
  
  ### Vamos juntos construir o futuro da programação.
 
-Este é meu perfil na rocketseat https://app.rocketseat.com.br/me/matheus-lucas-nunes-00546
 
 
 
