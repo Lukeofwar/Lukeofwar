@@ -10,15 +10,14 @@ tento superá-lo.
 
 
 ### Curiosidades:
-
 gosto de games🎮🕹/
 
-músicas 🎶🎧/
+músicas 🎶🎧/ 
 
-filmes e animes 🎬🎥/
+filmes e animes 🎬🎥/ 
 
-
- #### Vamos juntos construir o futuro da programação.
+ <br/><br/>
+ #### Vamos juntos mergulhar na programação.
 Este é meu perfil na rocketseat https://app.rocketseat.com.br/me/matheus-lucas-nunes-00546
 
 <br/><br/>
