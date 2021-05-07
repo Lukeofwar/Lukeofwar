@@ -21,6 +21,7 @@ Este é meu perfil na rocketseat https://app.rocketseat.com.br/me/matheus-lucas-
 <br/>
 
 ### curiosidades:
+
 gosto de games🎮🕹/
 música 🎶🎧/
 filmes e animes 🎬🎥/
