@@ -8,7 +8,7 @@ Sempre tentando me superar e achar novos desafios e não importa o desafio
 tento superá-lo.
 
 
-
+<br/>
 ### Curiosidades:
 gosto de games🎮🕹/
 
@@ -16,7 +16,7 @@ músicas 🎶🎧/
 
 filmes e animes 🎬🎥/ 
 
- <br/><br/>
+ <br/>
  #### Vamos juntos mergulhar na programação.
 Este é meu perfil na rocketseat https://app.rocketseat.com.br/me/matheus-lucas-nunes-00546
 
