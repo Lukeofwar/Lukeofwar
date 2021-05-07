@@ -9,7 +9,9 @@ tento superá-lo.
 
 
 <br/>
+
 ### Curiosidades:
+
 gosto de games🎮🕹/
 
 músicas 🎶🎧/ 
