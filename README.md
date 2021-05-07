@@ -8,7 +8,6 @@ Sempre tentando me superar e achar novos desafios e não importa o desafio
 tento superá-lo.
 
 
-<br/>
 
 ### Curiosidades:
 
