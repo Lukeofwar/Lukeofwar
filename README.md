@@ -28,6 +28,8 @@ músicas 🎶🎧/
 
 filmes e animes 🎬🎥/
 <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=Lukeofwar&theme=buefy"/>  
+ <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukeofwar&hide=html&layout=compact&theme=buefy" />  
+
 
 
 
