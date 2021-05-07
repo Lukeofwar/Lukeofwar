@@ -15,7 +15,7 @@ Este é meu perfil na rocketseat https://app.rocketseat.com.br/me/matheus-lucas-
 
  ![Luke GitHub stats](https://github-readme-stats.vercel.app/api?username=Lukeofwar)
 
-
+<br/><br/>
 ### curiosidades: gosto de games, música, filmes e animes.
 
 
