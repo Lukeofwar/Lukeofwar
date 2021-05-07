@@ -1,4 +1,4 @@
-## hello my name is Matheus Lucas.
+## <b>hello my name is Matheus Lucas.</b>
 
 Sou uma pessoa que gosta de programar e quer se tornar um programador front-end <br/>
 mais no momento faço um pouco de front-end e back-end.<br/>
@@ -12,11 +12,11 @@ tento superá-lo.
 
 ### Curiosidades:
 
-gosto de games🎮🕹/
+<li>gosto de games🎮🕹/ </li>
 
-músicas 🎶🎧/ 
+<li>músicas 🎶🎧/ </li>
 
-filmes e animes 🎬🎥/ 
+<li>filmes e animes 🎬🎥/ </li>
 
  <br/>
  
