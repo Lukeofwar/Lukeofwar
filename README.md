@@ -23,7 +23,7 @@ tento superá-lo.
  #### *Vamos juntos mergulhar na programação.*
 Este é meu perfil na rocketseat https://app.rocketseat.com.br/me/matheus-lucas-nunes-00546
 
-![hello](https://github.com/Lukeofwar/Lukeofwar/blob/main/e426702edf874b181aced1e2fa5c6cde.gif)
+ ![helloo](https://github.com/Lukeofwar/Lukeofwar/blob/main/580429e3ffd3264c1aed7a5a96785bf14ab7ad1e.gif)
 
 <br/><br/>
 <td><img width="495px" color="#dddddd" align="left" src="https://github-readme-stats.vercel.app/api?username=Lukeofwar&theme=buefy" /> 
@@ -34,7 +34,6 @@ Este é meu perfil na rocketseat https://app.rocketseat.com.br/me/matheus-lucas-
  
  <br/>
  
- ![helloo](https://github.com/Lukeofwar/Lukeofwar/blob/main/580429e3ffd3264c1aed7a5a96785bf14ab7ad1e.gif)
  
 
  
