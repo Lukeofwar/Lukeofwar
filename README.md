@@ -1,4 +1,5 @@
 ## *hello my name is Matheus Lucas.*
+![oii](https://github.com/Lukeofwar/Lukeofwar/blob/main/a38a40c0af8cfdec294b0fb4553d6416.gif)
 
 Sou uma pessoa que gosta de programar e quer se tornar um programador front-end <br/>
 mais no momento faço um pouco de front-end e back-end.<br/>
