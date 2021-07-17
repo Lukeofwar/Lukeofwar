@@ -26,7 +26,7 @@ Este é meu perfil na rocketseat https://app.rocketseat.com.br/me/matheus-lucas-
  ![helloo](https://github.com/Lukeofwar/Lukeofwar/blob/main/580429e3ffd3264c1aed7a5a96785bf14ab7ad1e.gif)
 
 <br/><br/>
-<td><img width="495px" color="#dddddd" align="left" src="https://github-readme-stats.vercel.app/api?username=Lukeofwar&theme=buefy" /> 
+<td><img width="495px" color="#ffffff" align="left" src="https://github-readme-stats.vercel.app/api?username=Lukeofwar&theme=buefy" /> 
  
  <br/> 
  
