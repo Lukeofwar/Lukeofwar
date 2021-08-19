@@ -10,7 +10,7 @@ tento superá-lo.
 
 <br/>
 
-### *Curiosidades:*
+### *Trivia About Me:*
 
 <li>gosto de games🎮🕹/ </li>
 
