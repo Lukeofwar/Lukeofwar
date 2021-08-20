@@ -1,6 +1,6 @@
 ## *hello my name is Matheus Lucas.*
 
-Sou uma pessoa que gosta de programar e quer se tornar um programador front-end <br/>
+Sou uma pessoa que ama programar e quer se tornar um programador front-end <br/>
 mais no momento faço um pouco de front-end e back-end.<br/>
 <br/>
 Estudante de programação que não rejeita um bom desafio ⚔❤😉.<br/>
