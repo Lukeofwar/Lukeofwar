@@ -32,7 +32,7 @@ Este é meu perfil na rocketseat https://app.rocketseat.com.br/me/matheus-lucas-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukeofwar&layout=compact&theme=radical)](https://github.com/Lukeofwar/github-readme-stats) 
  <br/>
  
- <img alingn="center" src="https://profile-counter.glitch.me/teteusAraujo/count.svg" />
+ <img alingn="center" src="https://profile-counter.glitch.me/Lukeofwar/count.svg" />
  
  
 
