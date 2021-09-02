@@ -1,4 +1,4 @@
-## *hello my name is Matheus Lucas.*
+## Olá eu sou o Matheus 
 
 Sou uma pessoa que ama programar e quer se tornar um programador front-end <br/>
 mais no momento faço um pouco de front-end e back-end.<br/>
@@ -7,8 +7,6 @@ Estudante de programação que não rejeita um bom desafio ⚔❤😉.<br/>
 Sempre tentando me superar e achar novos desafios e não importa o desafio 
 tento superá-lo.
 
-
-<br/>
 
 ### *Trivia About Me:*
 
@@ -27,7 +25,7 @@ Este é meu perfil na rocketseat https://app.rocketseat.com.br/me/matheus-lucas-
 
  ![helloo](https://github.com/Lukeofwar/Lukeofwar/blob/main/580429e3ffd3264c1aed7a5a96785bf14ab7ad1e.gif)
 
-<br/><br/>
+<br/>
 ![Lucas Lukeofwar GitHub stats](https://github-readme-stats.vercel.app/api?username=Lukeofwar&show_icons=true&theme=radical) 
  <br/> 
  
