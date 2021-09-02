@@ -14,9 +14,11 @@ tento superá-lo.
 
 <li>gosto de games🎮🕹/ </li>
 
-<li>músicas 🎶🎧/ </li>
+<li> gosto muito de músicas 🎶🎧/ </li>
 
 <li>filmes e animes 🎬🎥/ </li>
+
+<li>Toco batera 🥢/ </li>
 
  <br/>
  
