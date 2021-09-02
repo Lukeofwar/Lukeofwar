@@ -11,7 +11,7 @@ tento superá-lo.
 
 <li>gosto de games🎮🕹/ </li>
 
-<li> gosto muito de músicas 🎶🎧/ </li>
+<li> gosto muito de músicas 🎶🎧/ </li>          
 
 <li>filmes e animes 🎬🎥/ </li>
 
@@ -22,7 +22,7 @@ tento superá-lo.
  #### *Vamos juntos mergulhar na programação.*
 Este é meu perfil na rocketseat https://app.rocketseat.com.br/me/matheus-lucas-nunes-00546
 
-  ![helloo](https://github.com/Lukeofwar/Lukeofwar/blob/main/580429e3ffd3264c1aed7a5a96785bf14ab7ad1e.gif)
+  
 
 <div>
 <img height="180em" src=https://github-readme-stats.vercel.app/api?username=Lukeofwar&show_icons=true&theme=radical https://github.com/Lukeofwar/github-readme-stats/> 
@@ -45,12 +45,4 @@ Este é meu perfil na rocketseat https://app.rocketseat.com.br/me/matheus-lucas-
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![insomnia](https://img.shields.io/badge/insomnia-5849be?style=for-the-badge&logo=insomnia&logoColor=white)
 ![git](https://img.shields.io/badge/git-f05032?style=for-the-badge&logo=git&logoColor=white)
-
-
-
-
-
-
-
-
 
