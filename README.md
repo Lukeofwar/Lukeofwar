@@ -25,12 +25,10 @@ Este é meu perfil na rocketseat https://app.rocketseat.com.br/me/matheus-lucas-
 
   ![helloo](https://github.com/Lukeofwar/Lukeofwar/blob/main/580429e3ffd3264c1aed7a5a96785bf14ab7ad1e.gif)
 
-
-![Lucas Lukeofwar GitHub stats](https://github-readme-stats.vercel.app/api?username=Lukeofwar&show_icons=true&theme=radical) 
- <br/> 
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukeofwar&layout=compact&theme=radical)](https://github.com/Lukeofwar/github-readme-stats) 
- <br/>
+<div>
+<img height="180em" src=https://github-readme-stats.vercel.app/api?username=Lukeofwar&show_icons=true&theme=radical https://github.com/Lukeofwar/github-readme-stats/> 
+<img height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Lukeofwar&layout=compact&theme=radical https://github.com/Lukeofwar/github-readme-stats/> 
+</div> 
  
  
  ### Visitas no Perfil.
