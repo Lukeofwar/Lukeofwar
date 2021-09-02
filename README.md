@@ -7,7 +7,7 @@ Sempre tentando me superar e achar novos desafios e não importa o desafio
 tento superá-lo.
 
 
-### *Trivia About Me:*
+### *Trivia About Me  <img align="right" src="imagem-1.png" width="200"/> 
 
 <li>gosto de games🎮🕹/ </li>
 
