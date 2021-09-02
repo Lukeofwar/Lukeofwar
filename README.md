@@ -6,13 +6,9 @@ Estudante de programação que não rejeita um bom desafio ⚔❤😉.<br/>
 Sempre tentando me superar e achar novos desafios e não importa o desafio 
 tento superá-lo.
 
-<<<<<<< HEAD
 
-### *Trivia About Me  <img align="right" src="imagem-1.png" width="200"/> 
-=======
- 
-### *Trivia About Me:*   <img align="right" src=https://c.tenor.com/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif width="200"/> 
->>>>>>> b0894d995fc85b364ecd0bbb455ce81f6ba6422d
+### *Trivia About Me  <img align="right" src="imagem-1.png" width="350"/> 
+
 
 <li>gosto de games🎮🕹/ </li>
 
