@@ -16,7 +16,7 @@ tento superá-lo.
 
 <li>filmes e animes 🎬🎥/ </li>
 
-<li>Toco batera 🥢/ </li>
+<li>Baterista🥢/ </li>
 
  
   <br/>
