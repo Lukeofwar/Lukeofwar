@@ -14,7 +14,7 @@ tento superá-lo.
 
 <li> gosto muito de músicas 🎶🎧/ </li>         
 
-<li>filmes e animes 🎬🎥/ </li>
+<li>Gosto de filmes e animes 🎬🎥/ </li>
 
 <li>Baterista🥢/ </li>
 
